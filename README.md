@@ -57,13 +57,11 @@ You will see this page after you open the [link](https://jate-text-editor-wayne-
 
 ![Alt text](Screenshots/AppLayout.png)
 
-You can either start editing text on this page, and the data will be save to your broswer
+    You can either start editing text on this webpage, and the data will be saved to your broswer automatically.
 
-or
+OR
 
-You can use it on local machine(without internet connection), and the data will be saved in the local App.
-
-![Alt text](Screenshots/Prompt.png)
+    You can use it on local machine(without internet connection), and the data will be saved automatically in the local App.
 
 ## Uninstall
 
